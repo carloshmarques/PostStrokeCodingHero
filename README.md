@@ -23,11 +23,46 @@
  <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
  ### CSharpRecoveryJourney This repository is part of my personal recovery and learning journey after a stroke. I'm revisiting C# fundamentals to train my brain, improve focus, and rebuild my coding skills. Each folder represents a weekly module with exercises and small projects.
 
+ ---
+
+## 💪 Goals
+
+- Practice C# fundamentals
+- Train brain elasticity through repetition and logic
+- Improve English technical vocabulary
+- Build small projects that reflect each lesson
+
 ---
 
-## ⚡ **Installation**
+## 📁 Suggested repository structure
 
-* To be configured<!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+<div align="center">
+  <!-- Change your logo -->
+  <a href="https://imgur.com/LVBlvkG">
+    <img width="100%" src="https://imgur.com/LVBlvkG.png" alt="@carloshmarques/PostStrokeCodingHero's Project tree logo">
+  </a>
+</div>
+
+---
+
+## 📚 Tutorials I Follow
+
+- [C# for Beginners from Gavin Lon](https://www.youtube.com/playlist?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
+
+* With special incidence on:
+- [C# Loops Tutorial by LearnCoding](https://youtu.be/oO0GXIIE56U?list=PL4LFuHwItvKbneXxSutjeyz6i1w32K6di)
+
+---
+
+## 🤝 Support & Gratitude
+
+This journey is about resilience, learning, and sharing. If you're recovering from something — physical, mental, or emotional — you're not alone. Coding can be a powerful tool for healing.
+
+Feel free to fork, follow, or contribute. And thank you for reading!
+
+## ⚡ **Installation**
+<!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* I use vs code, and github desktop to edit files aand push commits to github, so you will need  them and project tree extension from:[project-tree](https://marketplace.visualstudio.com/items?itemName=zhucy.project-tree)
 
 ---
 
@@ -37,9 +72,13 @@
 
 ---
 
-## 🌲 **Project tree**
+## 📁 Project Tree
 
-<!-- ... [SHOW YOUR PROJECT TREE HERE IF USEFUL] -->
+<!-- Project tree starts here -->
+
+<!-- Project tree ends here -->
+
+
 
 ---
 
@@ -107,3 +146,5 @@ Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 ---
 
 _Made with a lot of ❤️❤️ by **[@carloshmarques](https://github.com/carloshmarques)**_
+
+```
