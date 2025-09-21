@@ -5,7 +5,7 @@
 <div align="center">
   <!-- Change your logo -->
   <a href="https://github.com/carloshmarques/PostStrokeCodingHero">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@carloshmarques/PostStrokeCodingHero's logo">
+    <img width="100%" src="https://i.imgur.com/rj1HPjW.png" alt="@carloshmarques/PostStrokeCodingHero's logo">
   </a>
   <br>
   <a href="https://github.com/carloshmarques/PostStrokeCodingHero/issues">
@@ -20,19 +20,20 @@
 
 ## 🤔 **About the project**
 
-* <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+ <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
+ ### CSharpRecoveryJourney This repository is part of my personal recovery and learning journey after a stroke. I'm revisiting C# fundamentals to train my brain, improve focus, and rebuild my coding skills. Each folder represents a weekly module with exercises and small projects.
 
 ---
 
 ## ⚡ **Installation**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
+* To be configured<!-- ... [SHOW HOW YOUR PROJECT IS INSTALLED] -->
 
 ---
 
 ## 🚀 **Usage**
 
-* <!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
+* To be configured<!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
 
 ---
 
@@ -44,7 +45,7 @@
 
 ## 📝 **Additional notes**
 
-* <!-- ... [ADD ADDITIONAL NOTES] -->
+* To be configured<!-- ... [ADD ADDITIONAL NOTES] -->
 
 ---
 
@@ -80,7 +81,7 @@ PostStrokeCodingHero was generated from *[Josee9988/project-template](https://gi
 
 ## 🕵️ Extra recommendations
 
-* <!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
+* To be configured<!-- If you recommend installing anything special, or if you recommend using X thing for the good use of your project...-->
 
 ---
 
