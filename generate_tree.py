@@ -26,9 +26,10 @@ def update_readme(tree_text):
     with open('README.md', 'w', encoding='utf-8') as f:
         f.write(new_content)
 
-if __name__ == '__master__':
+if __name__ == '__main__':
     tree = (
-        generate_tree('Week1_Basics') +
+        generate_tree('./') +
+        generate_tree('./Week1_Basics/') +
         generate_tree('Week2_Loops') +
         generate_tree('Week3_Conditions') +
         generate_tree('Week4_Functions') +
