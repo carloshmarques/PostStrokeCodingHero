@@ -4,7 +4,7 @@ def generate_tree(path='.', prefix=''):
     tree = ''
     for item in sorted(os.listdir(path)):
         if item.startswith('.') or item in ['.git', '.github', '__pycache__']:
-            continue
+         continue
         full_path = os.path.join(path, item)
         if os.path.isdir(full_path):
             tree += f"{prefix}📁 {item}/\n"
@@ -27,8 +27,13 @@ def update_readme(tree_text):
         f.write(new_content)
 
 if __name__ == '__main__':
-    tree =(
-        generate_tree('./') 
-       
-    )
+    tree = (
+    generate_tree('./') +
+    generate_tree('Week1_Basics') +
+    generate_tree('Week2_Loops') +
+    generate_tree('Week3_Conditions') +
+    generate_tree('Week4_Functions') +
+    generate_tree('Week5_Arrays') +
+    generate_tree('Week6_FinalProject')
+)
     update_readme(tree)

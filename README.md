@@ -66,6 +66,12 @@
 📁 Week6_FinalProject/
 │   ├── test.txt
 ├── generate_tree.py
+├── test.txt
+├── text.txt
+├── test.txt
+├── test.txt
+├── test.txt
+├── test.txt
 ```
 
 <!-- Project tree ends here -->
