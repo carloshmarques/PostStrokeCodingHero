@@ -61,7 +61,10 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 ├── LICENSE
 ├── README.md
 📁 Week1_Basics/
-│   ├── test.txt
+│   ├── HelloWorld.cs
+│   ├── README.md
+│   ├── SimpleMath.cs
+│   ├── VariablesAndComments.cs
 📁 Week2_Loops/
 │   ├── text.txt
 📁 Week3_Conditions/
@@ -73,7 +76,10 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 📁 Week6_FinalProject/
 │   ├── test.txt
 ├── generate_tree.py
-├── test.txt
+├── HelloWorld.cs
+├── README.md
+├── SimpleMath.cs
+├── VariablesAndComments.cs
 ├── text.txt
 ├── test.txt
 ├── test.txt
