@@ -1,5 +1,8 @@
+---
+
 ## 📘 Week 1 – Basics
 
+---
 This folder contains the first exercises of my recovery journey. The goal is to reactivate memory and focus using simple C# programs:
 
 - `HelloWorld.cs`: A welcome message to restart coding-
@@ -7,10 +10,9 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 - `SimpleMath.cs`: A small math operation to train logic
 ---
 
-## 🚀 **Usage**
+## 🚀 Usage
 
-<!-- ... [SHOW HOW YOUR PROJECT IS USED] -->
-
-* .CS were created with git bash and edited with nano editor, make sure you make settings set.
+These `.cs` files were created using Git Bash and edited with the Nano editor.  
+Make sure your environment is set up to compile and run C# files manually if you're not using Visual Studio.
 
 ---
