@@ -58,12 +58,14 @@
 📁 Week2_Loops/
 │   ├── text.txt
 📁 Week3_Conditions/
+│   ├── test.txt
 📁 Week4_Functions/
+│   ├── test.txt
 📁 Week5_Arrays/
+│   ├── test.txt
 📁 Week6_FinalProject/
+│   ├── test.txt
 ├── generate_tree.py
-├── test.txt
-├── text.txt
 ```
 
 <!-- Project tree ends here -->

@@ -27,13 +27,8 @@ def update_readme(tree_text):
         f.write(new_content)
 
 if __name__ == '__main__':
-    tree = (
-        generate_tree('./') +
-        generate_tree('./Week1_Basics/') +
-        generate_tree('Week2_Loops') +
-        generate_tree('Week3_Conditions') +
-        generate_tree('Week4_Functions') +
-        generate_tree('Week5_Arrays') +
-        generate_tree('Week6_FinalProject')
+    tree =(
+        generate_tree('./') 
+       
     )
     update_readme(tree)
