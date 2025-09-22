@@ -72,13 +72,6 @@ Feel free to fork, follow, or contribute. And thank you for reading!
 
 ---
 
-## 📁 Project Tree
-
-<!-- Project tree starts here -->
-
-<!-- Project tree ends here -->
----
-
 ## 📝 **Additional notes**
 
 * To be configured<!-- ... [ADD ADDITIONAL NOTES] -->
@@ -145,3 +138,22 @@ Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 _Made with a lot of ❤️❤️ by **[@carloshmarques](https://github.com/carloshmarques)**_
 
 ```
+
+## 📁 Project Tree
+
+<!-- Project tree starts here -->
+PostStrokeCodingHero
+├─ CHANGELOG.md
+├─ generate_tree.py
+├─ LICENSE
+├─ README.md
+├─ Week1_Basics
+│  └─ test.txt
+├─ Week2_Loops
+├─ Week3_Conditions
+├─ Week4_Functions
+├─ Week5_Arrays
+└─ Week6_FinalProject
+
+<!-- Project tree ends here -->
+---
