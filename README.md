@@ -1,3 +1,10 @@
+## 📘 Week 1 – Basics
+
+This folder contains the first exercises of my recovery journey. The goal is to reactivate memory and focus using simple C# programs:
+
+- `HelloWorld.cs`: A welcome message to restart coding
+- `VariablesAndComments.cs`: Practice with basic data and English comments
+- `SimpleMath.cs`: A small math operation to train logic
 <!-- markdownlint-disable MD032 MD033-->
 <!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
 # 🔥 **carloshmarques/PostStrokeCodingHero**
@@ -121,7 +128,7 @@ Feel free to fork, follow, or contribute. And thank you for reading!
 
 <!-- Change your small logo -->
 <a href="https://github.com/carloshmarques/PostStrokeCodingHero">
-  <img alt="@carloshmarques/PostStrokeCodingHero's brand logo without text" align="right" src="https://i.imgur.com/3qK1sie.png" width="18%" />
+  <img alt="@carloshmarques/PostStrokeCodingHero's brand logo without text" align="right" src="https://i.imgur.com/i8hCIzh.jpg" width="18%" />
 </a>
 
 
@@ -170,3 +177,5 @@ Watch the changes in the '**[CHANGELOG.md](CHANGELOG.md)**' file.
 
 _Made with a lot of ❤️❤️ by **[@carloshmarques](https://github.com/carloshmarques)**_
 
+
+```
