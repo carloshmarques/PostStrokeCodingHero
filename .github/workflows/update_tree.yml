@@ -26,7 +26,7 @@ jobs:
 
       - name: Commit changes
         run: |
-          git config --global user.name 'carloshmmarques'
+          git config --global user.name 'carloshmarques'
           git config --global user.email 'carlos.manuel.horta.marques@hotmail.com'
           git add README.md
           git commit -m "Auto-update project tree"
