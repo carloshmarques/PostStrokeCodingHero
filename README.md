@@ -88,6 +88,18 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   ├── SimpleMath.cs
 │   ├── VariablesAndComments.cs
 📁 Week2_Loops/
+│   📁 app/
+│   │   📁 app/
+│   │   │   ├── App.config
+│   │   │   ├── Program.cs
+│   │   │   📁 Properties/
+│   │   │   │   ├── AssemblyInfo.cs
+│   │   │   ├── app.csproj
+│   │   │   📁 obj/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   │   │   │   ├── app.csproj.AssemblyReference.cache
+│   │   ├── app.sln
 │   ├── text.txt
 📁 Week3_Conditions/
 │   ├── test.txt
@@ -124,6 +136,18 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 ├── README.md
 ├── SimpleMath.cs
 ├── VariablesAndComments.cs
+📁 app/
+│   📁 app/
+│   │   ├── App.config
+│   │   ├── Program.cs
+│   │   📁 Properties/
+│   │   │   ├── AssemblyInfo.cs
+│   │   ├── app.csproj
+│   │   📁 obj/
+│   │   │   📁 Debug/
+│   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   │   │   ├── app.csproj.AssemblyReference.cache
+│   ├── app.sln
 ├── text.txt
 ├── test.txt
 ├── test.txt
