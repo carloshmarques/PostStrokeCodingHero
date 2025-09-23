@@ -24,11 +24,15 @@ jobs:
           pip install --upgrade pip
           python generate_tree.py
 
-      - name: Commit changes
+      - name: Push changes
+        env:
+          TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
           git config --global user.name 'carloshmarques'
           git config --global user.email 'carlos.manuel.horta.marques@hotmail.com'
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
           git add README.md
           git commit -m "Auto-update project tree"
+          git diff --quiet || git commit -m "Auto-update project tree"
           git push
         continue-on-error: true
