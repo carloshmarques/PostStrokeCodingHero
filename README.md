@@ -82,7 +82,6 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   │   ├── App.exe.config
 │   │   │   │   │   ├── App.pdb
 │   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
-│   │   │   │   │   📁 TempPE/
 │   │   ├── App.sln
 │   ├── HelloWorld.cs
 │   ├── README.md
@@ -120,7 +119,6 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   ├── App.exe.config
 │   │   │   │   ├── App.pdb
 │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
-│   │   │   │   📁 TempPE/
 │   ├── App.sln
 ├── HelloWorld.cs
 ├── README.md

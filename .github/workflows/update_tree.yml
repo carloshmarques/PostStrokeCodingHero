@@ -1,11 +1,18 @@
 name: Update Project Tree
-
 on:
   push:
     branches:
       - main
       - master
       - gh-pages
+      
+  schedule:
+    # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch:
+    # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
 jobs:
   update-readme:
@@ -27,9 +34,14 @@ jobs:
       - name: Push changes
         env:
           TOKEN: ${{ secrets.GH_TOKEN }}
+          authorization: |
+            curl --request GET \
+            --url "https://api.github.com/octocat" \
+            --header "Authorization: token GH_TOKEN" \
+            --header "X-GitHub-Api-Version: 2022-11-28"
         run: |
           git config --global user.name 'carloshmarques'
-          git config --global user.email 'carlos.manuel.horta.marques@hotmail.com'
+          git config --global user.email 'carlos.manuel.horta.marques@hotmail.com'         
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
           git add README.md
           git commit -m "Auto-update project tree"
