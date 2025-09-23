@@ -34,7 +34,7 @@ jobs:
           --url "https://api.github.com/octocat" \
           --header "Authorization: Bearer GH_TOKEN" \
           --header "X-GitHub-Api-Version: 2022-11-28"
-          git remote set-url origin: https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
           git add README.md
           git commit -m "Auto-update project tree"
           git diff --quiet || git commit -m "Auto-update project tree"
