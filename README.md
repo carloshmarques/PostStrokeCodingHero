@@ -61,6 +61,29 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 ├── LICENSE
 ├── README.md
 📁 Week1_Basics/
+│   📁 App/
+│   │   📁 App/
+│   │   │   ├── App.config
+│   │   │   ├── App.csproj
+│   │   │   ├── Program.cs
+│   │   │   📁 Properties/
+│   │   │   │   ├── AssemblyInfo.cs
+│   │   │   📁 bin/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── App.exe
+│   │   │   │   │   ├── App.exe.config
+│   │   │   │   │   ├── App.pdb
+│   │   │   📁 obj/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   │   ├── App.csproj.CoreCompileInputs.cache
+│   │   │   │   │   ├── App.csproj.FileListAbsolute.txt
+│   │   │   │   │   ├── App.exe
+│   │   │   │   │   ├── App.exe.config
+│   │   │   │   │   ├── App.pdb
+│   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   │   │   │   📁 TempPE/
+│   │   ├── App.sln
 │   ├── HelloWorld.cs
 │   ├── README.md
 │   ├── SimpleMath.cs
@@ -76,6 +99,29 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 📁 Week6_FinalProject/
 │   ├── test.txt
 ├── generate_tree.py
+📁 App/
+│   📁 App/
+│   │   ├── App.config
+│   │   ├── App.csproj
+│   │   ├── Program.cs
+│   │   📁 Properties/
+│   │   │   ├── AssemblyInfo.cs
+│   │   📁 bin/
+│   │   │   📁 Debug/
+│   │   │   │   ├── App.exe
+│   │   │   │   ├── App.exe.config
+│   │   │   │   ├── App.pdb
+│   │   📁 obj/
+│   │   │   📁 Debug/
+│   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   ├── App.csproj.CoreCompileInputs.cache
+│   │   │   │   ├── App.csproj.FileListAbsolute.txt
+│   │   │   │   ├── App.exe
+│   │   │   │   ├── App.exe.config
+│   │   │   │   ├── App.pdb
+│   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   │   │   📁 TempPE/
+│   ├── App.sln
 ├── HelloWorld.cs
 ├── README.md
 ├── SimpleMath.cs
