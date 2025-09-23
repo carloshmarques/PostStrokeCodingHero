@@ -33,5 +33,6 @@ jobs:
           git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
           git add README.md
           git commit -m "Auto-update project tree"
+          git diff --quiet || git commit -m "Auto-update project tree"
           git push
         continue-on-error: true
