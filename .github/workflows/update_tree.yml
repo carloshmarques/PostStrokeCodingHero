@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --global user.name 'carloshmarques'
           git config --global user.email 'carlos.manuel.horta.marques@hotmail.com'
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
+          git remote set-url origin https://x-access-token:${GH_TOKEN}@github.com/carloshmarques/PostStrokeCodingHero.git
           git add README.md
           git commit -m "Auto-update project tree"
           git push
