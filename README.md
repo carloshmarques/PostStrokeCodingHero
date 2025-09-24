@@ -120,7 +120,9 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   ├── README.md
 │   ├── SwitchCase.cs
 📁 Week4_Functions/
-│   ├── test.txt
+│   ├── ArrayIndex.cs
+│   ├── ArraySum.cs
+│   ├── SimpleArray.cs
 📁 Week5_Arrays/
 │   ├── test.txt
 📁 Week6_FinalProject/
@@ -182,7 +184,9 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 ├── NestedIf.cs
 ├── README.md
 ├── SwitchCase.cs
-├── test.txt
+├── ArrayIndex.cs
+├── ArraySum.cs
+├── SimpleArray.cs
 ├── test.txt
 ├── test.txt
 ```
