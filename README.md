@@ -88,6 +88,11 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   ├── SimpleMath.cs
 │   ├── VariablesAndComments.cs
 📁 Week2_Loops/
+│   ├── DoWhileBreak.cs
+│   ├── ForLoop.cs
+│   ├── ForLoopContinue.cs
+│   ├── README.md
+│   ├── WhileLoop.cs
 │   📁 app/
 │   │   📁 app/
 │   │   │   ├── App.config
@@ -100,7 +105,6 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
 │   │   │   │   │   ├── app.csproj.AssemblyReference.cache
 │   │   ├── app.sln
-│   ├── text.txt
 📁 Week3_Conditions/
 │   ├── test.txt
 📁 Week4_Functions/
@@ -136,6 +140,11 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 ├── README.md
 ├── SimpleMath.cs
 ├── VariablesAndComments.cs
+├── DoWhileBreak.cs
+├── ForLoop.cs
+├── ForLoopContinue.cs
+├── README.md
+├── WhileLoop.cs
 📁 app/
 │   📁 app/
 │   │   ├── App.config
@@ -148,7 +157,6 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
 │   │   │   │   ├── app.csproj.AssemblyReference.cache
 │   ├── app.sln
-├── text.txt
 ├── test.txt
 ├── test.txt
 ├── test.txt
