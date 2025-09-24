@@ -115,7 +115,10 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   │   ├── app.pdb
 │   │   ├── app.sln
 📁 Week3_Conditions/
-│   ├── test.txt
+│   ├── IfElse.cs
+│   ├── NestedIf.cs
+│   ├── README.md
+│   ├── SwitchCase.cs
 📁 Week4_Functions/
 │   ├── test.txt
 📁 Week5_Arrays/
@@ -175,7 +178,10 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   ├── app.exe
 │   │   │   │   ├── app.pdb
 │   ├── app.sln
-├── test.txt
+├── IfElse.cs
+├── NestedIf.cs
+├── README.md
+├── SwitchCase.cs
 ├── test.txt
 ├── test.txt
 ├── test.txt
