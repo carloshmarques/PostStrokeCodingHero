@@ -115,13 +115,48 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   │   ├── app.pdb
 │   │   ├── app.sln
 📁 Week3_Conditions/
+│   📁 App/
+│   │   📁 App/
+│   │   │   ├── App.config
+│   │   │   ├── App.csproj
+│   │   │   ├── Program.cs
+│   │   │   📁 Properties/
+│   │   │   │   ├── AssemblyInfo.cs
+│   │   │   📁 bin/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── App.exe
+│   │   │   │   │   ├── App.exe.config
+│   │   │   │   │   ├── App.pdb
+│   │   │   📁 obj/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   │   ├── App.csproj.CoreCompileInputs.cache
+│   │   │   │   │   ├── App.csproj.FileListAbsolute.txt
+│   │   │   │   │   ├── App.exe
+│   │   │   │   │   ├── App.exe.config
+│   │   │   │   │   ├── App.pdb
+│   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   ├── App.sln
 │   ├── IfElse.cs
 │   ├── NestedIf.cs
 │   ├── README.md
 │   ├── SwitchCase.cs
 📁 Week4_Functions/
+│   📁 App/
+│   │   📁 App/
+│   │   │   ├── App.config
+│   │   │   ├── App.csproj
+│   │   │   ├── Program.cs
+│   │   │   📁 Properties/
+│   │   │   │   ├── AssemblyInfo.cs
+│   │   │   📁 obj/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   │   ├── App.sln
 │   ├── ArrayIndex.cs
 │   ├── ArraySum.cs
+│   ├── README.md
 │   ├── SimpleArray.cs
 📁 Week5_Arrays/
 │   ├── test.txt
@@ -180,12 +215,47 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   │   ├── app.exe
 │   │   │   │   ├── app.pdb
 │   ├── app.sln
+📁 App/
+│   📁 App/
+│   │   ├── App.config
+│   │   ├── App.csproj
+│   │   ├── Program.cs
+│   │   📁 Properties/
+│   │   │   ├── AssemblyInfo.cs
+│   │   📁 bin/
+│   │   │   📁 Debug/
+│   │   │   │   ├── App.exe
+│   │   │   │   ├── App.exe.config
+│   │   │   │   ├── App.pdb
+│   │   📁 obj/
+│   │   │   📁 Debug/
+│   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   ├── App.csproj.CoreCompileInputs.cache
+│   │   │   │   ├── App.csproj.FileListAbsolute.txt
+│   │   │   │   ├── App.exe
+│   │   │   │   ├── App.exe.config
+│   │   │   │   ├── App.pdb
+│   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   ├── App.sln
 ├── IfElse.cs
 ├── NestedIf.cs
 ├── README.md
 ├── SwitchCase.cs
+📁 App/
+│   📁 App/
+│   │   ├── App.config
+│   │   ├── App.csproj
+│   │   ├── Program.cs
+│   │   📁 Properties/
+│   │   │   ├── AssemblyInfo.cs
+│   │   📁 obj/
+│   │   │   📁 Debug/
+│   │   │   │   ├── App.csproj.AssemblyReference.cache
+│   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
+│   ├── App.sln
 ├── ArrayIndex.cs
 ├── ArraySum.cs
+├── README.md
 ├── SimpleArray.cs
 ├── test.txt
 ├── test.txt
