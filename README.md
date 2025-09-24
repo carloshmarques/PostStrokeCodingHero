@@ -100,10 +100,19 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   │   📁 Properties/
 │   │   │   │   ├── AssemblyInfo.cs
 │   │   │   ├── app.csproj
+│   │   │   📁 bin/
+│   │   │   │   📁 Debug/
+│   │   │   │   │   ├── app.exe
+│   │   │   │   │   ├── app.exe.config
+│   │   │   │   │   ├── app.pdb
 │   │   │   📁 obj/
 │   │   │   │   📁 Debug/
 │   │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
 │   │   │   │   │   ├── app.csproj.AssemblyReference.cache
+│   │   │   │   │   ├── app.csproj.CoreCompileInputs.cache
+│   │   │   │   │   ├── app.csproj.FileListAbsolute.txt
+│   │   │   │   │   ├── app.exe
+│   │   │   │   │   ├── app.pdb
 │   │   ├── app.sln
 📁 Week3_Conditions/
 │   ├── test.txt
@@ -152,10 +161,19 @@ This folder contains the first exercises of my recovery journey. The goal is to 
 │   │   📁 Properties/
 │   │   │   ├── AssemblyInfo.cs
 │   │   ├── app.csproj
+│   │   📁 bin/
+│   │   │   📁 Debug/
+│   │   │   │   ├── app.exe
+│   │   │   │   ├── app.exe.config
+│   │   │   │   ├── app.pdb
 │   │   📁 obj/
 │   │   │   📁 Debug/
 │   │   │   │   ├── DesignTimeResolveAssemblyReferencesInput.cache
 │   │   │   │   ├── app.csproj.AssemblyReference.cache
+│   │   │   │   ├── app.csproj.CoreCompileInputs.cache
+│   │   │   │   ├── app.csproj.FileListAbsolute.txt
+│   │   │   │   ├── app.exe
+│   │   │   │   ├── app.pdb
 │   ├── app.sln
 ├── test.txt
 ├── test.txt
